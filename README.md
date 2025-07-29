@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm **Harish Mekala**, a Senior Technical Writer with over 9 years of experience in delivering end-to-end technical content for software and cloud-based products. My background spans across documentation types including tutorials, white papers, blogs, API docs, and user guides. I’ve authored content using Markdown and GitHub workflows for developer and business audiences, and worked on enterprise-scale platforms such as IBM Cloud and SharePoint.
+I'm **Harish Mekala**, a Senior Technical Writer with over 7 years of experience in delivering end-to-end technical content for software and cloud-based products. My background spans across documentation types including tutorials, white papers, blogs, API docs, and user guides. I’ve authored content using Markdown and GitHub workflows for developer and business audiences, and worked on enterprise-scale platforms such as IBM Cloud and SharePoint.
 
 This portfolio showcases samples tailored for Microsoft Power Platform with focus on business user enablement, administrative guidance, and task-based tutorials. These samples reflect skills in structured authoring, visual planning, and user-centered content design.
 
