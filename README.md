@@ -23,6 +23,7 @@ A walkthrough for Power Platform admins to configure and apply DLP policies for 
 A task-based guide for business users to set up a simple approval flow triggered from SharePoint using a pre-built Power Automate template.
 
 ---
+## 📄 Other Samples
 
 ## 📎 Resume
 
