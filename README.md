@@ -34,6 +34,6 @@ For detailed background, [view my resume](./resume.md) included in this reposito
 
 - 📧 mekalaharish92@gmail.com
 - 📱 +91 9959670566
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mekala-harish-6985742a5/)_
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mekala-harish-6985742a5/)
 
 ---
