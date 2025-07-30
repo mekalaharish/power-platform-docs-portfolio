@@ -25,7 +25,7 @@ A task-based guide for business users to set up a simple approval flow triggered
 ---
 ## 📄 Other Samples
 * [Automated Teller Machine with Flow chart](Automated_Teller_Machine_with_Flow_chart.docx)
-* [Community_cloud_User_Guide .pptx](Community_cloud_User_Guide .pptx)
+* [Community Cloud User Guide](Community_cloud_User_Guide.pptx)
 * [Lidar Device Installation Guide](Lidar_device_installation_guide_V_1_2_External.pdf)
 * [Mobile Phone Calling Function](Mobile_phone_calling_function.docx)
 * [Power13 White Paper](Power13_White_Paper.docx)
