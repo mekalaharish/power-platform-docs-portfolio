@@ -30,7 +30,7 @@ Technical Writer with 9+ years of industry experience including:
 
 ## Work Experience
 
-### **IBM (Payroll: Carrernet)** – *Feb 2023 – Present*  
+### **IBM (Payroll: Carrernet)** – *Feb 2023 – July 2025*  
 **Senior Technical Writer**
 - Developed content using Markdown + GitHub for IBM Cloud
 - Created and maintained blogs, white papers, API docs, and user guides
@@ -56,7 +56,7 @@ Technical Writer with 9+ years of industry experience including:
 
 ## Education
 
-- **M.Sc. (Computer Science)** – Jawaharlal Nehru Institute of Technology, 2015  
-- **B.Sc. (Computer Science)** – Mahaveer Institute of Science and Technology, 2013
+- **M.Tech. (Computer Science)** – Jawaharlal Nehru Institute of Technology, 2015  
+- **B.Tech. (Computer Science)** – Mahaveer Institute of Science and Technology, 2013
 
 ---
